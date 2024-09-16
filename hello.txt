@@ -4,3 +4,4 @@ Hello world!
 444444444
 new string with param in commit -a with one command!
 Pushing to the remote rep!!!
+Another new String hehe!!
